@@ -1,3 +1,4 @@
+# Click in shapes and use keys to control the turtle
 def setup():
     global shapes, colour
     global clickable, clicked, canClick
